@@ -4,3 +4,4 @@
 # $ cmake ..
 # $ cmake --build .
 # $ ./blackjack  
+# if its windows or mac install cmake
